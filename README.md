@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NicePatrick
+- 👋 Hi, I’m @YumikoLee
 - 👀 I’m interested in learning python and c#
 - 🌱 I’m currently learning python, html, css.
 - 💞️ I’m looking to collaborate on ...
